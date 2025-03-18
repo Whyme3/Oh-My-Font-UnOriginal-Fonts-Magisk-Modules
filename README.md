@@ -1,4 +1,23 @@
-# Oh My Font UnOriginal Fonts Magisk Modules
-Weird and Funky Fonts made with OMF
+# OhMyFont UnOriginal Fonts
 
-I'm new to the modding scene on android and tried looking around for fonts that I like but I really couldn't find any. So I ended up finding OMF and used it as a Template to build some font modules. I've tested some of them out and they seem to work but I haven't tried all of them. I will admit when I tried to use Google Play store it forced closed every time until I tried [ FontLoader by JingMatrix](https://github.com/JingMatrix/FontLoader) and it was smooth sailing from there. I'm uploading the fonts I've done so far so I hope y'all enjoy them.
+I looked everywhere for fonts that I would like and couldn't find any so I ended up using Oh My Font as a template to make the font modules. I am calling  them UnOriginal Fonts because they are not your standard fonts that most use. I ened up making some unique fonts.
+
+-Problems: I flashed a few of the modules and when I tried to use Google Play it would force shut everytime. But I found a solution for it. Just flash FontLoader by JingMatrix it will not only fix the problem but load the font in Google Apps. 
+
+## Instructions
+
+1: If you want Google Play to work flash FontLoader.
+
+2: Flash the OMF UnOriginal Font Module.
+
+3: Reboot
+
+Your good to go now and it should work and load the font in pretty much every app.
+
+### Thanks to  
+topjohnwu for Magisk [Source](https://github.com/topjohnwu/Magisk)
+
+Nông Thái Hoàng for Oh My Font [Source](https://gitlab.com/nongthaihoang/oh_my_font)
+
+JingMatrix for  FontLoader [Source](https://github.com/JingMatrix/FontLoader)
+ 
