@@ -6,7 +6,7 @@ I looked everywhere for fonts that I would like and couldn't find any so I ended
 
 ## Instructions
 
-1: If you want Google Play to work flash FontLoader.
+1: If you want Google Play to work flash FontLoader. [Download](https://github.com/Whyme3/Oh-My-Font-UnOriginal-Fonts-Magisk-Modules/raw/refs/heads/main/FontLoader/FontLoader.zip)
 
 2: Flash the OMF UnOriginal Font Module.
 
