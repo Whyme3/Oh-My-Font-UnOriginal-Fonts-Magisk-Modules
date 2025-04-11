@@ -1,4 +1,7 @@
 
-### v20250228
+# Romance Fatal Serif
 
-First release
+
+### v2025.02.28
+* Initial Release
+* OMF v2025011401

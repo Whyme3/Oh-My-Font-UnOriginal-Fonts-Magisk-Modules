@@ -1,4 +1,6 @@
+# Burbank Big Condensed
 
-### v20250228
 
-First release
+### v2025.02.28
+* Initial Release
+* OMF v2025011401

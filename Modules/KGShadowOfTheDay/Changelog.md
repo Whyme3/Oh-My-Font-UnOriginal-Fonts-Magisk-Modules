@@ -1,4 +1,7 @@
 
-### v20250228
+# KG Shadow Of The Day
 
-First release
+
+### v2025.02.28
+* Initial Release
+* OMF v2025011401
